@@ -1,0 +1,6 @@
+D:\Andrey\Works\test\Library_Mindbox\bin\Debug\Library_Mindbox.dll
+D:\Andrey\Works\test\Library_Mindbox\bin\Debug\Library_Mindbox.pdb
+D:\Andrey\Works\test\Library_Mindbox\obj\Debug\Library_Mindbox.csproj.AssemblyReference.cache
+D:\Andrey\Works\test\Library_Mindbox\obj\Debug\Library_Mindbox.csproj.CoreCompileInputs.cache
+D:\Andrey\Works\test\Library_Mindbox\obj\Debug\Library_Mindbox.dll
+D:\Andrey\Works\test\Library_Mindbox\obj\Debug\Library_Mindbox.pdb
